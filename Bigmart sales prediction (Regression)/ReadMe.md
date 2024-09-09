@@ -35,4 +35,3 @@ Using this model, BigMart will try to understand the properties of products and 
 
 
 Note: The Error metric is in log values. To convert to original values, use exponentiation.
-
